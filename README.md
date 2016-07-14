@@ -18,11 +18,13 @@ _________________________________________________
 **Script**
 
 Debian 8
+
 wget https://raw.githubusercontent.com/zero9911/pritunl/master/debian8.sh
 chmod +x debian8.sh
 ./debian8.sh
 
 Ubuntu 14
+
 wget https://raw.githubusercontent.com/zero9911/pritunl/master/ubuntu14.sh
 chmod +x ubuntu14.sh
 ./ubuntu14.sh
