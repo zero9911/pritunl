@@ -3,6 +3,9 @@
 # go to root
 cd
 
+# Install Command
+apt-get -y install ufw
+apt-get -y install sudo
 
 # Install Pritunl
 echo "deb http://repo.mongodb.org/apt/debian wheezy/mongodb-org/3.0 main" > /etc/apt/sources.list.d/mongodb-org-3.0.list
